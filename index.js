@@ -12,7 +12,7 @@ var options = {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
-    'Authorization': 'Bearer [LineAuthorization]'
+    'Authorization': 'Bearer og1Y13y1kcbY0XcRfuNbpPGXFNgTZ5htU0HjZgnyl5galLTYZLWUlTb7LoAG1bQwB732GSfVkAdKNUERTHUbCk1HSfyH17pLqBL2jUTyR0ZA4AMNOP/5hy+xHalUdkPLLuMeP91of7QmERnBWU/AKQdB04t89/1O/w1cDnyilFU='
   }
 }
 app.set('port', (process.env.PORT || 5000));
